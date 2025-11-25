@@ -1,9 +1,9 @@
 # PLSQL GROUPWORK
-# GROUP MEMBERS
-## ISIMBI MUSHIMIRE Iris 27121
-## MUNEZERO Cindy 27120
-## SUGIRA Ghislain 27776
-## MUGISHA Valens 27801
+## GROUP MEMBERS
+### ISIMBI MUSHIMIRE Iris 27121
+### MUNEZERO Cindy 27120
+### SUGIRA Ghislain 27776
+### MUGISHA Valens 27801
 
 
 # AUCA System Access Policy & HR Employee Management System
