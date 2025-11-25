@@ -30,7 +30,7 @@ The task required designing a PL/SQL package to manage employees’ salaries:
 **Goal:** Demonstrate PL/SQL package development, dynamic SQL, and database security context.
 
 
-## 2. How we Solved It
+### 2. How we Solved It
 
 ### Part 1 — AUCA System Access Policy
 [Auca System Access Policy](sql/Aucasystemaccesspolicy.sql)
