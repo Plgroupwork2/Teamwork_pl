@@ -1,9 +1,9 @@
-#PLSQL GROUPWORK
-#GROUP MEMBERS
-##ISIMBI MUSHIMIRE Iris 27121
-##MUNEZERO Cindy 27120
-##SUGIRA Ghislain 27776
-##MUGISHA Valens 27801
+# PLSQL GROUPWORK
+# GROUP MEMBERS
+## ISIMBI MUSHIMIRE Iris 27121
+## MUNEZERO Cindy 27120
+## SUGIRA Ghislain 27776
+## MUGISHA Valens 27801
 
 
 # AUCA System Access Policy & HR Employee Management System
@@ -19,7 +19,6 @@ The task required enforcing access rules for the AUCA system:
 
 **Goal:** Demonstrate database triggers that enforce real-time security and logging.
 
----
 
 ### Question 2 — HR Employee Management System (PL/SQL Package)
 The task required designing a PL/SQL package to manage employees’ salaries:
@@ -30,7 +29,6 @@ The task required designing a PL/SQL package to manage employees’ salaries:
 
 **Goal:** Demonstrate PL/SQL package development, dynamic SQL, and database security context.
 
----
 
 ## 2. How we Solved It
 
