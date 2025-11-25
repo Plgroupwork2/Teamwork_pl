@@ -31,7 +31,7 @@ The task required designing a PL/SQL package to manage employees’ salaries:
 
 ---
 
-## 2. How I Solved It
+## 2. How we Solved It
 
 ### Part 1 — AUCA System Access Policy
 [Auca System Access Policy](sql/Aucasystemaccesspolicy.sql)
